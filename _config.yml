@@ -1,0 +1,3 @@
+name: Sara's Sandbox
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
